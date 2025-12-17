@@ -12,7 +12,6 @@
 2. Clone or download the project source code from GitHub
 3. Open the main **`.mlapp`** file (for example:
 
-   * `TimNghiem.mlapp`
    * `Tab1.mlapp`
 4. Make sure all **`.m` function files** are in the same directory or added to MATLAB path
 5. Click **Run** in MATLAB App Designer
