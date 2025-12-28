@@ -141,11 +141,13 @@ The goal of the application is to:
 
 ## 👥 Team Members
 
-* **Nguyễn Văn Phúc** – 23207096
-* **Hồ Trọng Hải** – 23207050
-* **Nguyễn Trần Quốc Bảo** – 23207038
-* **Nguyễn Khánh Hoàng** – 23207057
-* **Nguyễn Đức Sơn** – 23207100
+| STT | Họ và Tên              | MSSV     |
+|-----|------------------------|----------|
+| 1   | Nguyễn Văn Phúc        | 23207096 |
+| 2   | Hồ Trọng Hải           | 23207050 |
+| 3   | Nguyễn Trần Quốc Bảo   | 23207038 |
+| 4   | Nguyễn Khánh Hoàng     | 23207057 |
+| 5   | Nguyễn Đức Sơn         | 23207100 |
 
 ---
 
